@@ -1,2 +1,7 @@
 author: krishnassh
 license: MIT
+
+/api/v1/bump
+
+openssl rand -base64 32
+to generate a cryptographically secure api key
